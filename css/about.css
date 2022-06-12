@@ -1,0 +1,15 @@
+
+.navbar {
+    background-color: white
+  }
+  
+  .page-footer,
+  .top-nav-collapse {
+    background-color: #1C2331
+  }
+  /*  navbar */
+  @media only screen and (max-width:768px) {
+    .navbar {
+        background-color: white
+    }
+  }
